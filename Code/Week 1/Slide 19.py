@@ -1,25 +1,16 @@
-print("Hello Alice!")
-print("Alice is 20 years old.")
+# Output
+print("Hello, World!")
+print("My score is", 95)
 
-# ... 30 lines later ...
+# Input — always returns a string!
+name = input("What is your name? ")
+age = int(input("How old are you? "))
 
-print("Hello Bob!")
-print("Bob is 25 years old.")
+# f-strings (Python 3.6+)
+print(f"Hello, {name}! You are {age} years old.")
+print(f"In 10 years you will be {age + 10}.")
 
-# Repeating the same logic
-# everywhere — hard to change!
-
-
-##########################################################
-
-def greet(name, age):
-    print(f"Hello {name}!")
-    print(f"{name} is {age}.")
-
-
-# Use it anywhere, anytime:
-greet("Alice", 20)
-greet("Bob", 25)
-greet("Carol", 22)
-
-# Change once → updates everywhere
+# Type conversion examples
+x = int("42")      # string → integer
+y = float("3.14")  # string → float
+z = str(100)       # integer → string

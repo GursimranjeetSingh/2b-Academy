@@ -1,0 +1,17 @@
+Recommended Order for Your Bootcamp
+
+Variables
+Data Types
+Input/Output
+Conditional Statements
+Loops
+Functions
+Lambda Functions (basic only)
+Lists
+Tuples
+Sets
+Dictionaries
+String Methods
+List Comprehensions
+map(), filter(), sorted()
+File Handling, OOP, etc.
