@@ -304,7 +304,6 @@ This is the engagement engine of the whole bootcamp. Don't treat the 3 hours as 
 
 ---
 
-## WEEK 4 (Jul 20 – Jul 24) — Backend (Flask) + AI Fundamentals
 
 ### Day 12 — Thu, Jul 16: Backend Concepts + Flask Basics
 **Goal:** Understand client-server architecture and get a Flask app running.
@@ -341,6 +340,9 @@ This is the engagement engine of the whole bootcamp. Don't treat the 3 hours as 
 - **End-of-week recap:** Week 4 so far — client-server → Flask → forms.
 
 ---
+
+
+## WEEK 4 (Jul 20 – Jul 24) — Backend (Flask) + AI Fundamentals
 
 ### Day 14 — Mon, Jul 20: Dynamic Data + Module 4 Capstone
 **Goal:** Build a small but complete Flask website.
