@@ -251,7 +251,7 @@ print(data)
 # ==================================================
 # 23. setdefault()
 # ==================================================
-#setdefault() returns the value of a key if it exists. If the key does not exist, it creates the key with a default value.
+# setdefault() returns the value of a key if it exists. If the key does not exist, it creates the key with a default value.
 
 student.setdefault("city", "Delhi")
 
